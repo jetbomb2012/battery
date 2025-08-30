@@ -4,7 +4,7 @@ title: 鋰電池簡介
 ---
 
 <div class="post">
-  <h1 class="pageTitle">關於鋰電池大聯盟</h1>
+  <h1 class="pageTitle">關於鋰電池</h1>
   <p class="intro">鋰電池四大禁止行為</p>
 
   <h2>技術影片</h2>
