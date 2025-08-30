@@ -5,7 +5,7 @@ title: 關於鋰電池大聯盟
 
 <div class="post">
   <h1 class="pageTitle">關於鋰電池大聯盟</h1>
-  <p class="intro">鋰電池是現代能源部署的核心元件，具備高能量密度、低自放電率與模組化擴充能力。此頁面提供一支技術導向影片，作為唯一介紹載體。</p>
+  <p class="intro">鋰電池</p>
 
   <h2>技術影片</h2>
   <video controls width="100%">
