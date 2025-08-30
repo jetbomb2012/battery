@@ -8,7 +8,7 @@ title: 鋰電池簡介
   <p class="intro">鋰電池四大禁止行為</p>
 
   <h2>技術影片</h2>
-  <video controls width="100%">
+  <video controls width="50%">
     <source src="{{ '/assets/video/az.mp4' | relative_url }}" type="video/mp4">
     您的瀏覽器不支援影片播放，請使用支援 HTML5 的瀏覽器。
   </video>
